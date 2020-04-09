@@ -1,3 +1,4 @@
 gitの練習をしていきます。
 git add
-git aommid
+git commit
+git remove
